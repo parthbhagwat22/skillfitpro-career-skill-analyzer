@@ -1,0 +1,6 @@
+streamlit
+cohere
+python-dotenv
+rapidfuzz
+pymupdf
+reportlab
