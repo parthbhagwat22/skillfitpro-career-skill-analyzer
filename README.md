@@ -64,20 +64,46 @@
 ![PDF Report](https://github.com/parthbhagwat22/skillfitpro-career-skill-analyzer/blob/a93599d0fad410edbec3055eebc71bd9d8370a09/screenshots/pdf_report/Screenshot%202025-08-08%20140543.png)
 
 
-🚀 Future Improvements
-Support for scanned resumes via OCR.
+# 🚀 Smart Resume Matcher
 
-Multiple JD comparison.
+An intelligent system designed to enhance the resume screening process using AI-powered techniques like OCR, semantic matching with embeddings, and job scraping. Ideal for data-driven hiring and resume-job fit analysis.
 
-Semantic matching with embeddings.
+---
 
-LinkedIn job scraping integration.
+## 🚀 Future Improvements
 
-👨‍💻 Author
-Parth Bhagwat
-Aspiring Data Scientist | AI & GenAI Enthusiast
+- ✅ **Support for scanned resumes via OCR**  
+  Enable extraction of text from scanned or image-based resumes using OCR technology.
 
-🔗🚀 **linkedin** [Click Here](https://www.linkedin.com/in/parthbhagwat/)
+- ✅ **Multiple JD Comparison**  
+  Compare a resume against multiple job descriptions to evaluate the best match.
+
+- ✅ **Semantic Matching with Embeddings**  
+  Use NLP-based vector embeddings to semantically match resumes with job descriptions.
+
+- ✅ **LinkedIn Job Scraping Integration**  
+  Automate job listing extraction from LinkedIn for real-time matching.
+
+---
+
+## 👨‍💻 Author
+
+**Parth Bhagwat**  
+Aspiring Data Scientist | AI & GenAI Enthusiast  
+[🔗 LinkedIn – Click Here](https://www.linkedin.com/in/your-profile-link)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+## 👨‍💻 Author
+
+**Parth Bhagwat**  
+Aspiring Data Scientist | AI & GenAI Enthusiast  
+[🔗 LinkedIn – Click Here](https://www.linkedin.com/in/parthbhagwat/)
 
 📜 License
 This project is licensed under the MIT License.
