@@ -89,7 +89,7 @@ An intelligent system designed to enhance the resume screening process using AI-
 
 **Parth Bhagwat**  
 Aspiring Data Scientist | AI & GenAI Enthusiast  
-[🔗 LinkedIn – Click Here](https://www.linkedin.com/in/your-profile-link)
+[🔗 LinkedIn – Click Here](https://www.linkedin.com/in/parthbhagwat/)
 
 ---
 
