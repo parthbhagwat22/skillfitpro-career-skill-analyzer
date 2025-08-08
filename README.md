@@ -68,14 +68,6 @@
 ![PDF Report](https://github.com/parthbhagwat22/skillfitpro-career-skill-analyzer/tree/a93599d0fad410edbec3055eebc71bd9d8370a09/screenshots/pdf_report)
 
 
-## 📦 Installation & Setup (Local)
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/skillfitpro-career-skill-analyzer.git
-cd skillfitpro-career-skill-analyzer
-pip install -r requirements.txt
-
-
 🚀 Future Improvements
 Support for scanned resumes via OCR.
 
@@ -88,25 +80,10 @@ LinkedIn job scraping integration.
 👨‍💻 Author
 Parth Bhagwat
 Aspiring Data Scientist | AI & GenAI Enthusiast
+
 🔗 LinkedIn | Portfolio
 
 📜 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
-
----
-
-If you want, I can now make you a **LinkedIn post draft** from this README so you can announce your project the same day you push it to GitHub and deploy it.  
-Do you want me to prepare that next?
-
-
-
-
-
-
-
-
-Ask ChatGPT
+If you want, I can now make you a LinkedIn post draft from this README so you can instantly announce your project to recruiters and hiring managers the moment you push it live.
