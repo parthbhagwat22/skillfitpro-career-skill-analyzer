@@ -80,9 +80,8 @@ LinkedIn job scraping integration.
 Parth Bhagwat
 Aspiring Data Scientist | AI & GenAI Enthusiast
 
-🔗 LinkedIn | Portfolio
+🔗🚀 **linkedin** [Click Here](https://www.linkedin.com/in/parthbhagwat/)
 
 📜 License
 This project is licensed under the MIT License.
 
-If you want, I can now make you a LinkedIn post draft from this README so you can instantly announce your project to recruiters and hiring managers the moment you push it live.
