@@ -28,6 +28,12 @@
 | **python-dotenv** | Environment variable management |
 
 ---
+## 📂 Project Structure
+- **app.py** # Streamlit frontend application.
+- **Paste Job Description** – Extracts skills using Cohere AI.
+- **Skill Comparison** – Finds missing skills with fuzzy matching.
+- **Learning Roadmap** – AI-generated 4-step plan for each missing skill.
+- **Downloadable Report** – Generates a recruiter-ready PDF.
 
 ## 📂 Project Structure
 
