@@ -31,12 +31,11 @@
 
 ## 📂 Project Structure
 .
-├── app.py # Streamlit frontend
+├── app.py # Streamlit frontend application
 ├── utils.py # Backend utility functions
 ├── requirements.txt # Python dependencies
 ├── .env.example # API key template (no real key)
-├── .gitignore # Ignore sensitive files
-└── README.md # Project documentation
+└── .gitignore # Ignore sensitive files
 
 
 ---
