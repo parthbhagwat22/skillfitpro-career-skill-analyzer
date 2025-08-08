@@ -30,19 +30,10 @@
 ---
 ## 📂 Project Structure
 - **app.py** # Streamlit frontend application.
-- **Paste Job Description** – Extracts skills using Cohere AI.
-- **Skill Comparison** – Finds missing skills with fuzzy matching.
-- **Learning Roadmap** – AI-generated 4-step plan for each missing skill.
-- **Downloadable Report** – Generates a recruiter-ready PDF.
-
-## 📂 Project Structure
-
- -**app.py # Streamlit frontend application**-
- -**utils.py # Backend utility functions**-
- -**requirements.txt # Python dependencies**-
- -**.env.example # API key template (no real key)**-
- -**.gitignore # Ignore sensitive files**-
-
+- **utils.py** # Backend utility functions.
+- **requirements.txt** # Python dependencies.
+- **.env.example**  # API key template (no real key).
+- **.gitignore** #Ignore sensitive files.
 
 ---
 
