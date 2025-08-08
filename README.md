@@ -2,7 +2,7 @@
 
 **SkillFitPro** is an AI-powered tool that analyzes your resume against a job description, identifies missing skills, and generates a personalized learning roadmap — helping job seekers close skill gaps faster.
 
-🚀 **Live Demo:** [Click Here](https://your-streamlit-link.streamlit.app)  
+🚀 **Live Demo:** [Click Here](https://skillfitpro.streamlit.app/)  
 💻 **GitHub Repo:** [Click Here](https://github.com/yourusername/skillfitpro-career-skill-analyzer)  
 
 ---
