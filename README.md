@@ -3,7 +3,6 @@
 **SkillFitPro** is an AI-powered tool that analyzes your resume against a job description, identifies missing skills, and generates a personalized learning roadmap — helping job seekers close skill gaps faster.
 
 🚀 **Live Demo:** [Click Here](https://skillfitpro.streamlit.app/)  
-💻 **GitHub Repo:** [Click Here](https://github.com/yourusername/skillfitpro-career-skill-analyzer)  
 
 ---
 
@@ -97,14 +96,3 @@ Aspiring Data Scientist | AI & GenAI Enthusiast
 ## 📜 License
 
 This project is licensed under the [MIT License](./LICENSE).
-
-
-## 👨‍💻 Author
-
-**Parth Bhagwat**  
-Aspiring Data Scientist | AI & GenAI Enthusiast  
-[🔗 LinkedIn – Click Here](https://www.linkedin.com/in/parthbhagwat/)
-
-📜 License
-This project is licensed under the MIT License.
-
