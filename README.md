@@ -54,9 +54,19 @@
 ---
 
 ## 📸 Screenshots
-*(Add your app and PDF report screenshots here)*
 
----
+### 1️⃣ Upload Resume & Paste JD
+![Upload Resume](https://github.com/parthbhagwat22/skillfitpro-career-skill-analyzer/blob/a93599d0fad410edbec3055eebc71bd9d8370a09/screenshots/upload_resume/Screenshot%202025-08-08%20140336.png)
+
+### 2️⃣ Skills Analysis
+![Analysis Results](https://github.com/parthbhagwat22/skillfitpro-career-skill-analyzer/blob/a93599d0fad410edbec3055eebc71bd9d8370a09/screenshots/skill_comparison/Screenshot%202025-08-08%20140425.png)
+
+### 3️⃣ Learning Roadmap
+![Learning Roadmap](https://github.com/parthbhagwat22/skillfitpro-career-skill-analyzer/blob/a93599d0fad410edbec3055eebc71bd9d8370a09/screenshots/roadmap/Screenshot%202025-08-08%20140457.png)
+
+### 4️⃣ PDF Report
+![PDF Report](https://github.com/parthbhagwat22/skillfitpro-career-skill-analyzer/tree/a93599d0fad410edbec3055eebc71bd9d8370a09/screenshots/pdf_report)
+
 
 ## 📦 Installation & Setup (Local)
 ### 1️⃣ Clone the Repository
